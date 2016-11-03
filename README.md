@@ -147,6 +147,7 @@ These other python programs show off some other features of the Energenie Python
 library:
 
 ```
+switch.py                 turn a named switch on or off (switch.py DEVICE STATE) where STATE is on or off)
 control_any_auto.py       auto variable creation from your registry.kvs
 control_any_noreg.py      creating your variables manually without a registry
 control_any_reg.py        control all switchable devices regardless of name, from registry
